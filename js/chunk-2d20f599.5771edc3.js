@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f599"],{b2f9:function(n,t,c){"use strict";function e(n){return new Promise((function(t,c){window.init=function(){t(BMapGL)};var e=document.createElement("script");e.type="text/javascript",e.src="http://api.map.baidu.com/api?v=1.0&type=webgl&ak=".concat(n,"&callback=init"),e.onerror=c,document.head.appendChild(e)}))}c.r(t),c.d(t,"BMPGL",(function(){return e}))}}]);
+//# sourceMappingURL=chunk-2d20f599.5771edc3.js.map

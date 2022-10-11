@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229b67"],{df2a:function(n,t,e){"use strict";e.r(t);var l=function(){var n=this,t=n._self._c;return t("Alert",{attrs:{type:"warning","show-icon":"",closable:""}},[n._v("\n  多列输入框样式规范：\n  "),t("template",{slot:"desc"},[t("p",[n._v("1.单列时，遵循输入框规范，详情查看基础表单控件页")]),t("p",[n._v("2.多列时，输入框宽度一致，可根据实际情况选择")]),t("p",[n._v("注：当前示例仅为样式示例")])])],2)},s=[],a=e("2877"),c={},o=Object(a["a"])(c,l,s,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d229b67.e7d83e6f.js.map
