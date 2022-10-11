@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a75b"],{bc37:function(a){a.exports=JSON.parse('{"yAxisDatas":[462365,462267,462394,462641,462559],"dataType":"AK_M26K:EPBDF","channelType":"BDF","xAxisTimes":[1663605585210,1663605585235,1663605585260,1663605585285,1663605585310]}')}}]);
+//# sourceMappingURL=chunk-2d21a75b.973603ea.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c13c8"],{"44d6":function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n._self._c;return t("Alert",{attrs:{type:"warning","show-icon":"",closable:""}},[n._v("\n  表格样式注意事项：\n  "),t("template",{slot:"desc"},[t("p",[n._v("当使用斑马纹时，为突出表头，将其高亮显示")]),t("p",[n._v("注：当前示例仅为样式示例")])])],2)},l=[],s=e("2877"),o={},a=Object(s["a"])(o,c,l,!1,null,null,null);t["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0c13c8.7fa21c7e.js.map
